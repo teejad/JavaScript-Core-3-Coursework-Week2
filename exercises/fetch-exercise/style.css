@@ -1,0 +1,14 @@
+body {
+    background-color: #202020;
+    margin: 0;
+    font-family: 'Cute Font', cursive;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: rgb(211, 52, 52);
+    letter-spacing: 1px; 
+    text-align: center;
+  }
