@@ -1,0 +1,27 @@
+
+body {
+    background-color: #202020;
+    margin: 0;
+    font-family: 'Cute Font', cursive;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: #fff;
+    letter-spacing: 1px; 
+    text-align: center;
+  }
+  
+.images, .buttons  {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;   
+    flex-wrap: wrap; 
+    width: 100%;  
+  }
+  #btn-dog:hover {
+    background-color: #ffffff;
+    transform: scale(1.2);
+  }
